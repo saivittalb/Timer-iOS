@@ -19,7 +19,7 @@ Only Mac OSX users can contribute to this project. If you are a Mac user and wil
 - Open this project with Xcode, run the app choosing which device you want to deploy with.
 - If everything went correct, you should see a Simulator opening up and the app will run.
 
-For contributing, you can change the code and add more features. Then, create a pull request of the changes you want to make.
+For contributing, you can change the code and add more features. Then, create a pull request of the changes you committed to make.
 
 # Integrations
 
@@ -30,7 +30,7 @@ This repository/project is integrated with
 
 Though the Travis CI build is failing, the project is running perfectly. To justify this, screenshots are attached below.
 
-# Working of the App
+# Preview of the App
 
 The app has three buttons - Start, Stop and Restart.
 
