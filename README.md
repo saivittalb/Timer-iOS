@@ -6,7 +6,6 @@
 A basic iOS Timer app developed with Objective-C. This app is compatible with all iPhones but specially optimized for iPhone 6, iPhone 6s, iPhone 7 and iPhone 8 (not the plus models). 
 
 # License
-
 This project is licensed under the GNU GPLv3 which lets people do almost anything they want with, except to distribute closed source versions. Any material found which vandalises or threatens any sort of plagiarism will be strictly given a legal action.
 
 Copyright (c) 2018 Sai Vittal B. All rights reserved.
@@ -22,7 +21,6 @@ Only Mac OSX users can contribute to this project. If you are a Mac user and wil
 For contributing, you can change the code and add more features. Then, create a pull request of the changes you committed to make.
 
 # Integrations
-
 This repository/project is integrated with 
 
 - Codacy
@@ -31,7 +29,6 @@ This repository/project is integrated with
 Though the Travis CI build is failing, the project is running perfectly. To justify this, screenshots are attached below.
 
 # Preview of the App
-
 The app has three buttons - Start, Stop and Restart.
 
 - Start button starts the timer from zero.
