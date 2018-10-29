@@ -42,9 +42,9 @@ Note: After pressing the restart button, please press the start button again to 
 
 Check the preview of the app here 👇
 
-<p align="center">![Welcome screen](https://user-images.githubusercontent.com/36305142/47638087-9d3cb400-db83-11e8-9003-93abb74b9c5a.png)</p>
-<p align="center">![Working screen](https://user-images.githubusercontent.com/36305142/47638095-a168d180-db83-11e8-95f0-51e3172d0881.png)</p>
-<p align="center">![Working screen](https://user-images.githubusercontent.com/36305142/47638098-a3cb2b80-db83-11e8-8832-a1fd086ce947.png)</p>
+![Welcome screen](https://user-images.githubusercontent.com/36305142/47638087-9d3cb400-db83-11e8-9003-93abb74b9c5a.png)
+![Working screen](https://user-images.githubusercontent.com/36305142/47638095-a168d180-db83-11e8-95f0-51e3172d0881.png)
+![Working screen](https://user-images.githubusercontent.com/36305142/47638098-a3cb2b80-db83-11e8-8832-a1fd086ce947.png)
 
 <p align="center"> Copyright (c) 2018 Sai Vittal B. All rights reserved.</p>
 <p align="center"> Made with ❤ by <a href="https://github.com/saivittalb">Sai Vittal B</a></p>
