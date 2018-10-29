@@ -1,4 +1,4 @@
 language: objective-c
-xcode_project: Timer/Timer.xcodeproj # path to your xcodeproj folder
+xcode_project: Timer.xcodeproj # path to your xcodeproj folder
 xcode_scheme: Timer
 xcode_destination: platform=iOS Simulator,OS=12.0,name=iPhone 6S
