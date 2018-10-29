@@ -34,9 +34,9 @@ Though the Travis CI build is failing, the project is running perfectly. To just
 
 The app has three buttons - Start, Stop and Restart.
 
-Start button starts the timer from zero.
-Stop button stops the timer.
-Restart button restarts the timer.
+- Start button starts the timer from zero.
+- Stop button stops the timer.
+- Restart button restarts the timer.
 
 Note: After pressing the restart button, please press the start button again to run the timer from zero.
 
