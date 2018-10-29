@@ -17,7 +17,7 @@ Only Mac OSX users can contribute to this project. If you are a Mac user and wil
 - Download/Clone this repository.
 - Download Xcode from the Mac App Store if you doesn't have yet.
 - Open this project with Xcode, run the app choosing which device you want to deploy with.
-- If everything went correct, you should see a Simulator opening and the app will run.
+- If everything went correct, you should see a Simulator opening up and the app will run.
 
 For contributing, you can change the code and add more features. Then, create a pull request of the changes you want to make.
 
