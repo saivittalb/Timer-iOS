@@ -14,7 +14,7 @@ Copyright (c) 2018 Sai Vittal B. All rights reserved.
 Only Mac OSX users can contribute to this project. If you are a Mac user and willing to test/contribute, then follow these steps.
 
 - Download/Clone this repository.
-- Download Xcode from the Mac App Store if you doesn't have yet.
+- Download Xcode from the Mac App Store if you don't have yet.
 - Open this project with Xcode, run the app choosing which device you want to deploy with.
 - If everything went correct, you should see a Simulator opening up and the app will run.
 
